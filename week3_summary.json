@@ -1,0 +1,10 @@
+{
+    "project": "Explainable AI-Based Financial Fraud Detection System",
+    "models": [
+        "Logistic Regression",
+        "Random Forest"
+    ],
+    "training_rows": 227845,
+    "testing_rows": 56962,
+    "target_column": "Class"
+}

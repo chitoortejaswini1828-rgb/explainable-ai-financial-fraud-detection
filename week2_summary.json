@@ -1,0 +1,8 @@
+{
+    "original_rows": 284807,
+    "rows_after_duplicate_removal": 283726,
+    "duplicate_rows_removed": 1081,
+    "missing_values_original": 0,
+    "amount_outlier_rows": 31904,
+    "graphs_saved": 2
+}
